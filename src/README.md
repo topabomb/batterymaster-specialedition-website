@@ -32,9 +32,9 @@ highlights:
         icon: material-symbols:battery-unknown
         details: View battery health/degradation in real-time
 
-      - title: 充放电功率
+      - title: Charging and discharging power
         icon: material-symbols:award-star-rounded
-        details: Charging and discharging power
+        details: Real-time monitoring of battery charging and discharging power
 
       - title: Battery Information
         icon: material-symbols:award-star-rounded
