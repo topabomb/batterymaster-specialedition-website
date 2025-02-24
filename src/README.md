@@ -1,7 +1,7 @@
 ---
 home: true
 icon: house
-title: home
+title: Home
 bgImage: /assets/bg/4-light.svg
 bgImageDark: /assets/bg/4-dark.svg
 heroText: BatteryMaster(电池大师)
@@ -17,6 +17,10 @@ actions:
   - text: Source
     icon: octicon:mark-github
     link: https://github.com/topabomb/BatteryMaster
+
+  - text: 💡推荐-MarkText中文版
+    link: https://marktext.weero.net/
+
 
 highlights:
   - header: New Features

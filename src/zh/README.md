@@ -16,6 +16,9 @@ actions:
     icon: octicon:mark-github
     link: https://github.com/topabomb/BatteryMaster
 
+  - text: 💡推荐-MarkText中文版
+    link: https://marktext.weero.net/
+
 highlights:
   - header: 新功能
     image: /assets/image/box.svg
