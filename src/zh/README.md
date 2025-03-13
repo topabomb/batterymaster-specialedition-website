@@ -15,8 +15,12 @@ actions:
   - text: 源码
     icon: octicon:mark-github
     link: https://github.com/topabomb/BatteryMaster
+  
+  - text: English
+    icon: language
+    link: /
 
-  - text: 💡推荐-MarkText中文版
+  - text: 💡MarkText中文版
     link: https://marktext.weero.net/
 
 highlights:
