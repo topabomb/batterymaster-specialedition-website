@@ -2,10 +2,11 @@
 home: true
 icon: house
 title: 主页
+heroImage : /assets/screenshot/history.png
 bgImage: /assets/bg/4-light.svg
 bgImageDark: /assets/bg/4-dark.svg
 heroText: 电池大师(BatteryMaster)
-tagline: 免费且开源的Windows电池管理软件，支持电池健康度、充电功率、放电功率、电池电压等等关键电池信息展示；手工调节处理器功率限制；
+tagline: 免费且开源的Windows笔记本电池管理软件，支持电池健康度、损耗度、充电功率、放电功率、电池电压等等关键电池信息展示；手工调节处理器功率限制；可以记录并查看历史的电池健康度变化；
 actions:
   - text: 下载
     icon: download
@@ -29,9 +30,15 @@ highlights:
     bgImage: /assets/bg/1-light.svg
     bgImageDark: /assets/bg/1-dark.svg
     features:
+      - title: 笔记本电池使用历史
+        icon: material-symbols:award-star-rounded
+        details: 记录每次笔记本电池的使用情况，跟踪健康度或电池损耗的变化；
+
       - title: 系统托盘显示
         icon: material-symbols:award-star-rounded
         details: 充放电时以不同颜色显示充放电功率和时长，满电时显示cpu占用;
+
+      
 
       - title: 电池的健康度/损耗
         icon: material-symbols:battery-unknown
@@ -72,6 +79,8 @@ footer: <a href="https://github.com/topabomb"target="_blank">Topabomb</a> 使用
 ## 软件截图
 - 系统托盘
 ![screenshot](/assets/screenshot/tray.png "Windows tray" =200x)
+- 笔记本电池健康度历史
+![screenshot](/assets/screenshot/history.png "Battery historyy" =500x)
 - 电池监控
 ![screenshot](/assets/screenshot/monitor.png "Battery monitor" =500x)
 - 功率设置

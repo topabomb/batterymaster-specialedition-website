@@ -2,10 +2,11 @@
 home: true
 icon: house
 title: Home
+heroImage : /assets/screenshot/history.png
 bgImage: /assets/bg/4-light.svg
 bgImageDark: /assets/bg/4-dark.svg
 heroText: BatteryMaster(电池大师)
-tagline: Free and open-source Windows battery management software, supporting the display of key battery information such as battery health, charging power, discharging power, battery voltage, and more; allows manual adjustment of processor power limits.
+tagline: A free and open-source Windows laptop battery management software that supports the display of key battery information such as battery health, wear level, charging power, discharging power, battery voltage, and more; allows manual adjustment of processor power limits; and enables recording and viewing of historical battery health changes.
 actions:
     
 
@@ -32,6 +33,10 @@ highlights:
     bgImage: /assets/bg/1-light.svg
     bgImageDark: /assets/bg/1-dark.svg
     features:
+      - title: Laptop battery usage history
+        icon: material-symbols:award-star-rounded
+        details: Record each instance of laptop battery usage and track changes in health or battery wear.
+
       - title: System Tray Display
         icon: material-symbols:award-star-rounded
         details: Display charging and discharging power and duration in different colors during charging and discharging, and show CPU usage when fully charged.
@@ -76,6 +81,10 @@ footer: <a href="https://github.com/topabomb"target="_blank">Topabomb</a> use <a
 
 - Windows tray
 ![screenshot](/assets/screenshot/tray.png "Windows tray" =200x)
+
+- Battery history
+![screenshot](/assets/screenshot/history.png "Battery historyy" =500x)
+
 - Battery monitor
 ![screenshot](/assets/screenshot/monitor.png "Battery monitor" =500x)
 - Cpu power limit

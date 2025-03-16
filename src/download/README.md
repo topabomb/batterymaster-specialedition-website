@@ -8,7 +8,7 @@ category:
 
 ## Introduce
 
-Free and open-source Windows battery management software, supporting the display of key battery information such as battery health, charging power, discharging power, battery voltage, and more; allows manual adjustment of processor power limits.
+A free and open-source Windows laptop battery management software that supports the display of key battery information such as battery health, wear level, charging power, discharging power, battery voltage, and more; allows manual adjustment of processor power limits; and enables recording and viewing of historical battery health changes.
 
 ## Github release
 
