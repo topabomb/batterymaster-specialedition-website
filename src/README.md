@@ -5,7 +5,12 @@ title: Home
 heroImage : /assets/screenshot/history.png
 bgImage: /assets/bg/4-light.svg
 bgImageDark: /assets/bg/4-dark.svg
+head:
+  - - meta
+    - name: keywords
+      content: battery management monitor health
 heroText: BatteryMaster(电池大师)
+description: A free and open-source Windows laptop battery management software that supports the display of key battery information such as battery health, wear level, charging power, discharging power, battery voltage, and more; allows manual adjustment of processor power limits; and enables recording and viewing of historical battery health changes.
 tagline: A free and open-source Windows laptop battery management software that supports the display of key battery information such as battery health, wear level, charging power, discharging power, battery voltage, and more; allows manual adjustment of processor power limits; and enables recording and viewing of historical battery health changes.
 actions:
     

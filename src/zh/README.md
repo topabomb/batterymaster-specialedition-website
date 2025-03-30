@@ -5,7 +5,12 @@ title: 主页
 heroImage : /assets/screenshot/history.png
 bgImage: /assets/bg/4-light.svg
 bgImageDark: /assets/bg/4-dark.svg
+head:
+  - - meta
+    - name: keywords
+      content: 电池大师 笔记本电池管理 电池健康度 损耗度 充电功率 放电功率
 heroText: 电池大师(BatteryMaster)
+description: 免费且开源的Windows笔记本电池管理软件，支持电池健康度、损耗度、充电功率、放电功率、电池电压等等关键电池信息监控；手工调节处理器功率限制；可以记录并查看历史的电池健康度变化；
 tagline: 免费且开源的Windows笔记本电池管理软件，支持电池健康度、损耗度、充电功率、放电功率、电池电压等等关键电池信息监控；手工调节处理器功率限制；可以记录并查看历史的电池健康度变化；
 actions:
   - text: 下载
