@@ -14,7 +14,7 @@ export default defineUserConfig({
     "/zh/": {
       lang: "zh-CN",
       title: "电池大师",
-      description: "免费且开源的Windows电池管理软件，支持电池健康度、充电功率、放电功率、电池电压等等关键电池信息展示；手工调节处理器功率限制；",
+      description: "免费且开源的Windows电池管理软件，支持电池健康度、充电功率、放电功率、电池电压等等关键电池信息监控；手工调节处理器功率限制；",
     },
   },
 
