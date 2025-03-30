@@ -6,7 +6,7 @@ heroImage : /assets/screenshot/history.png
 bgImage: /assets/bg/4-light.svg
 bgImageDark: /assets/bg/4-dark.svg
 heroText: 电池大师(BatteryMaster)
-tagline: 免费且开源的Windows笔记本电池管理软件，支持电池健康度、损耗度、充电功率、放电功率、电池电压等等关键电池信息展示；手工调节处理器功率限制；可以记录并查看历史的电池健康度变化；
+tagline: 免费且开源的Windows笔记本电池管理软件，支持电池健康度、损耗度、充电功率、放电功率、电池电压等等关键电池信息监控；手工调节处理器功率限制；可以记录并查看历史的电池健康度变化；
 actions:
   - text: 下载
     icon: download
@@ -42,15 +42,15 @@ highlights:
 
       - title: 电池的健康度/损耗
         icon: material-symbols:battery-unknown
-        details: 实时查看电池的健康度/损耗
+        details: 实时监控电池的健康度/损耗
 
       - title: 充放电功率
         icon: material-symbols:award-star-rounded
-        details: 实时查看电池的充放电功率
+        details: 实时监控电池的充放电功率
 
       - title: 电池信息
         icon: material-symbols:award-star-rounded
-        details: 电池电压、充电功率、放电功率、设计容量、充满容量、电池寿命/损耗等关键信息
+        details: 电池电压、充电功率、放电功率、设计容量、充满容量、电池寿命/损耗等关键信息监控
 
       - title: AMD处理器支持
         icon: material-symbols:award-star-rounded
